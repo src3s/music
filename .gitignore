@@ -1,0 +1,39 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Built binary
+/radii5
+/radii5.exe
+/music
+/music.exe
+
+# Downloaded tools
+ffmpeg
+ffmpeg.exe
+ffplay
+ffplay.exe
+ffprobe
+ffprobe.exe
+yt-dlp
+yt-dlp.exe
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Go
+vendor/
+
+# Temp files
+*.tmp
+*.temp
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
